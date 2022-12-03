@@ -106,13 +106,12 @@ npm install --save-dev prop-types
 
 3. Установка styled-components
 
-   $ npm i styled-components
+   ```bash
+   npm i styled-system styled-components
+   ```
 
-4. Установка styled-system
-
-   $ npm i styled-system
-
-5. Установка modern-normalize
+4. Установка modern-normalize
 
    $ npm install modern-normalize
+
 # goit-react-template
